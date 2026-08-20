@@ -1,22 +1,36 @@
 <div align="center">
-![Visitor Count](https://komarev.com/ghpvc/?username=cxsirr&style=flat-square&color=58a6ff)
+
+![Visitor Count](https://komarev.com/ghpvc/?username=cxsirr&style=flat&color=142850)
+
 </div>
+
 # // cxsir
+
 > Stay high, don't cry.
+
 ## GitHub Stats
+
 <div align="center">
+
 ![cxsir's GitHub Stats](https://github-readme-stats.vercel.app/api?username=cxsirr&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
-![GitHub Streak](https://streak-stats.demolab.com/?user=cxsirr&theme=github_dark&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=cxsirr&theme=github_dark&hide_border=true)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cxsirr&layout=compact&theme=github_dark&hide_border=true)
+
 </div>
+
 ## Featured Projects
 
 | Project | Description | Link |
-| :--- | :--- | :--- |
+|---------|-------------|------|
 | **Sandustry Mods** | Mods for the sandbox/factory game Sandustry. | [View →](https://github.com/cxsirr/sandustry) |
 
 ## Connect With Me
+
 <div align="center">
+
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefox&logoColor=white)](https://cxsir.is-a.dev)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cxsir@proton.me)
+
 </div>
