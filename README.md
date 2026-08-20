@@ -30,7 +30,7 @@
 
 <div align="center">
 
-[![Site](https://img.shields.io/badge/Site-8b949e?style=for-the-badge&logo=firefox&logoColor=white)](https://cxsir.is-a.dev)
-[![Email](https://img.shields.io/badge/Email-8b949e?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cxsir@proton.me)
+[![Site](https://img.shields.io/badge/Site-8b949e?style=for-the-badge&logo=firefoxbrowser&logoColor=white)](https://cxsir.is-a.dev)
+[![Email](https://img.shields.io/badge/Email-8b949e?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:cxsir@proton.me)
 
 </div>
