@@ -1,9 +1,15 @@
 ![Visitor Count](https://komarev.com/ghpvc/?username=cxsirr&style=flat-square&color=58a6ff)
 # // cxsir > Stay high, don't cry.
 ## GitHub Stats
-[![cxsir's GitHub Stats](https://github-readme-stats.vercel.app/api?username=cxsirr&show_icons=true&theme=github_dark&hide_border=true&count_private=true)](https://github.com/cxsirr)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=cxsirr&theme=github_dark&hide_border=true)](https://github.com/cxsirr)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cxsirr&layout=compact&theme=github_dark&hide_border=true)](https://github.com/cxsirr)
+<a href="https://github.com/cxsirr">
+  <img src="https://github-readme-stats.vercel.app/api?username=cxsirr&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
+</a>
+<a href="https://github.com/cxsirr">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cxsirr&theme=github_dark&hide_border=true" />
+</a>
+<a href="https://github.com/cxsirr">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cxsirr&layout=compact&theme=github_dark&hide_border=true" />
+</a>
 ## Featured Projects
 
 | Project | Description | Link |
@@ -13,11 +19,11 @@
 ---
 ## Connect With Me
 <p align="left">
-  <a href="https://cxsir.is-a.dev" title="Website">
-    <img src="https://raw.githubusercontent.com/walkxcode/dashboard-icons/main/svg/internet-explorer.svg" width="32" height="32" alt="Browser Icon" style="filter: invert(1);">
+  <a href="https://cxsir.is-a.dev">
+    <img src="https://img.shields.io/badge/Portfolio-informational?style=social&logo=googleearth&logoColor=white" alt="Portfolio"/>
   </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="mailto:cxsir@proton.me" title="Email">
-    <img src="https://raw.githubusercontent.com/walkxcode/dashboard-icons/main/svg/proton.svg" width="32" height="32" alt="Proton">
+  &nbsp;&nbsp;
+  <a href="mailto:cxsir@proton.me">
+    <img src="https://img.shields.io/badge/Email-informational?style=social&logo=proton&logoColor=white" alt="Email"/>
   </a>
 </p>
