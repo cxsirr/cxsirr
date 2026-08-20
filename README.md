@@ -1,23 +1,22 @@
+<div align="center">
 ![Visitor Count](https://komarev.com/ghpvc/?username=cxsirr&style=flat-square&color=58a6ff)
-# // cxsir > Stay high, don't cry.
+</div>
+# // cxsir
+> Stay high, don't cry.
 ## GitHub Stats
-[![cxsir's GitHub Stats](https://github-readme-stats.vercel.app/api?username=cxsirr&show_icons=true&theme=github_dark&hide_border=true&count_private=true)](https://github.com/cxsirr)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=cxsirr&theme=github_dark&hide_border=true)](https://github.com/cxsirr)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cxsirr&layout=compact&theme=github_dark&hide_border=true)](https://github.com/cxsirr)
+<div align="center">
+![cxsir's GitHub Stats](https://github-readme-stats.vercel.app/api?username=cxsirr&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=cxsirr&theme=github_dark&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cxsirr&layout=compact&theme=github_dark&hide_border=true)
+</div>
 ## Featured Projects
 
 | Project | Description | Link |
 | :--- | :--- | :--- |
-| **Sandustry Mods** | Mods for the sandbox/factory game Sandustry. | [View &rarr;](https://github.com/cxsirr) |
+| **Sandustry Mods** | Mods for the sandbox/factory game Sandustry. | [View →](https://github.com/cxsirr/sandustry) |
 
----
 ## Connect With Me
-<p align="left">
-  <a href="https://cxsir.is-a.dev" title="Website">
-    <img src="https://raw.githubusercontent.com/iconify/fluent-emoji-flat:globe-with-meridians.svg" width="28" height="28" alt="Globe">
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="mailto:cxsir@proton.me" title="Email">
-    <img src="https://raw.githubusercontent.com/iconify/fluent-emoji-flat:envelope.svg" width="28" height="28" alt="Email">
-  </a>
-</p>
+<div align="center">
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefox&logoColor=white)](https://cxsir.is-a.dev)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cxsir@proton.me)
+</div>
